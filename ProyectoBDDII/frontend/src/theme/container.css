@@ -1,0 +1,17 @@
+#login-container {
+    position: relative;
+    top: 16%;
+    margin-left: 38%;
+    margin-right: 38%;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 63%;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+#label{
+    color:black;
+}
